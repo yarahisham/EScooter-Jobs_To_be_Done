@@ -2,7 +2,7 @@
 In vert simple points, list the steps you would follow while using JTBD framework, in order to find a problem that some people have so you can find out a probable solution for that problem through your JTBD analysis.
 
 <p align="center">
-<img src="https://github.com/yarahisham/EScooter_CaseStudy-Jobs_To_be_Done/blob/main/images/Screen%20Shot%202021-04-27%20at%208.55.03%20PM.jpg" alt="alt text" width="700" height="100" >
+<img src="https://github.com/yarahisham/EScooter_CaseStudy-Jobs_To_be_Done/blob/main/images/Screen%20Shot%202021-04-27%20at%208.55.03%20PM.jpg" alt="alt text" width="700" height="200" >
 </p>
 
 ## Description
