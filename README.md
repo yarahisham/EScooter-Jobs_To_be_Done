@@ -11,7 +11,7 @@ In vert simple points, list the steps you would follow while using JTBD framewor
   - Customer Need.
   - Environment Need.
   - Discover opportunity.
-  - JTBD
+  - JTBD.
   - Functional Jop Aspect.
   - Emotional Jon Aspect.
   - Old Solution.
