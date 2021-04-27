@@ -20,5 +20,5 @@ In vert simple points, list the steps you would follow while using JTBD framewor
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/EScooter-Jobs_To_be_Done/blob/main/images/Screen%20Shot%202021-04-27%20at%204.40.09%20PM.jpg" alt="alt text" width="700" height="100" >
+<img src="https://github.com/yarahisham/EScooter-Jobs_To_be_Done/blob/main/images/Screen%20Shot%202021-04-27%20at%204.40.09%20PM.jpg" alt="alt text" width="700" height="200" >
 </p>
